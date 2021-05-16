@@ -1,0 +1,3 @@
+This program uses a while loop consisting of ascii letters and characters to generate a random password.
+The password does not print to the console, but is rather outputted and saved to a file called test.txt
+test.txt is saved in the working directory.
